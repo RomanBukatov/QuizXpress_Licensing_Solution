@@ -1,0 +1,52 @@
+# -------------------------------------------------------------------
+# Visual Studio / .NET
+# -------------------------------------------------------------------
+# Visual Studio temporary files
+*.obj
+*.user
+*.aps
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.pdb
+*.ilk
+*.suo
+*.opt
+*.filters
+*.xcf
+*.opensdf
+*.sdf
+*.tlog
+*.log
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+*.exe
+*.dll
+*.pdb
+*.tlb
+*.lib
+*.ncb
+*.vshost.*
+
+# Visual Studio / NuGet
+# NuGet package build output
+*.nupkg
+*.snupkg
+# Packages folder
+[Pp]ackages/
+# Lock file
+/obj/project.assets.json
+
+# Visual Studio 2017+ cache folder
+.vs/
+
+# Resharper / Rider
+*.DotSettings
+*.userprefs
