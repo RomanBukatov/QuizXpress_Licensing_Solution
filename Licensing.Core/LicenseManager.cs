@@ -6,7 +6,7 @@ namespace Licensing.Core
 {
     public static class LicenseManager
     {
-        public static readonly string SecretKey = "ТВОЙ_СЕКРЕТНЫЙ_СОУС_ИЗ_ШАГА_1";
+        public static readonly string SecretKey = "MySuperSecretSauceForDokaStudioV2@#2025*";
         public static readonly string KrpPrefix = "KRP_V1_2025";
         public static readonly string QxPrefix = "QXV2_2025";
 
