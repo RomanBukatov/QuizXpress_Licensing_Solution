@@ -1,7 +1,7 @@
 # QuizXpress Licensing Solution
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![.NET](https://img.shields.io/badge/.NET-6.0%2B-blue)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/.NET-8.0%2B-blue)](https://dotnet.microsoft.com/)
 
 Решение для генерации лицензионных ключей для приложений QuizXpress. Предоставляет инструменты для создания и управления лицензиями с различными типами активации.
 
